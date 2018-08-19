@@ -1,12 +1,8 @@
-Usage
------
+# Usage
+
 Command to start the local server -> localhost:3000
 
-npm start
-
-
-Description
------------
+    npm start
 
 # The Login
 
